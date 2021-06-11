@@ -1,4 +1,4 @@
-ce projet à était realiser dans le cadre de mes etudes à la web@ccademie 
+ce projet à était realiser dans le cadre de mes etudes à la web@ccademie by Epitech
 # Compétences acquéris
 Lors de ce projet Je devais utiliser et maîtriser les outils suivants:
   * HTML5
